@@ -1,3 +1,0 @@
-# filmmaker
-
-just a blog

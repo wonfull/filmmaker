@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "China Documentary Filmmaker",
+    "description": "",
+    "home_page_url": "https://wonfull.github.io/filmmaker",
+    "feed_url": "https://wonfull.github.io/filmmaker/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chinacitywalker"
+    },
+    "items": [
+        {
+            "id": "https://wonfull.github.io/filmmaker/hi~.html",
+            "url": "https://wonfull.github.io/filmmaker/hi~.html",
+            "title": "Hi~",
+            "summary": "I’m a filmmaker in china. this is my youtube channle: https://www.youtube.com/channel/UC5hsjYYm6-Ew_ITnJ0KqFUA/",
+            "content_html": "<p>I’m a filmmaker in china. this is my youtube channle: https://www.youtube.com/channel/UC5hsjYYm6-Ew_ITnJ0KqFUA/</p>",
+            "author": {
+                "name": "Chinacitywalker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-21T20:03:33+06:00",
+            "date_modified": "2023-11-21T20:03:33+06:00"
+        },
+        {
+            "id": "https://wonfull.github.io/filmmaker/she-ying-shi-zhan-shi-ye-mian.html",
+            "url": "https://wonfull.github.io/filmmaker/she-ying-shi-zhan-shi-ye-mian.html",
+            "title": "摄影师展示页面",
+            "summary": "非常不错的说明哦",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://wonfull.github.io/filmmaker/media/posts/1/Da-Tong-Xin-Feng-Mian.jpg\" height=\"1080\" width=\"1920\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-xs.jpg 300w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-sm.jpg 480w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-md.jpg 768w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-lg.jpg 1024w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-xl.jpg 1360w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-2xl.jpg 1600w\">\n      \n    </figure>\n\n    <h2 id=\"fei-chang-bu-cuo-de-shuo-ming-e\">\n      非常不错的说明哦\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://wonfull.github.io/filmmaker/media/posts/1/Liang-Si-Cheng-Lin-Hui-Yin-2.jpeg\" height=\"1814\" width=\"3111\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-xs.jpeg 300w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-sm.jpeg 480w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-md.jpeg 768w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-lg.jpeg 1024w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-xl.jpeg 1360w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-2xl.jpeg 1600w\">\n      \n    </figure>",
+            "image": "https://wonfull.github.io/filmmaker/media/posts/1/Da-Tong-Xin-Feng-Mian.png",
+            "author": {
+                "name": "Chinacitywalker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-30T15:00:06+06:00",
+            "date_modified": "2023-10-30T15:31:49+06:00"
+        }
+    ]
+}

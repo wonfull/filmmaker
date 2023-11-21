@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>China Documentary Filmmaker</title>
+    <link href="https://wonfull.github.io/filmmaker/feed.xml" rel="self" />
+    <link href="https://wonfull.github.io/filmmaker" />
+    <updated>2023-11-21T20:03:33+06:00</updated>
+    <author>
+        <name>Chinacitywalker</name>
+    </author>
+    <id>https://wonfull.github.io/filmmaker</id>
+
+    <entry>
+        <title>Hi~</title>
+        <author>
+            <name>Chinacitywalker</name>
+        </author>
+        <link href="https://wonfull.github.io/filmmaker/hi~.html"/>
+        <id>https://wonfull.github.io/filmmaker/hi~.html</id>
+
+        <updated>2023-11-21T20:03:33+06:00</updated>
+            <summary>
+                <![CDATA[
+                    I’m a filmmaker in china. this is my youtube channle: https://www.youtube.com/channel/UC5hsjYYm6-Ew_ITnJ0KqFUA/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I’m a filmmaker in china. this is my youtube channle: https://www.youtube.com/channel/UC5hsjYYm6-Ew_ITnJ0KqFUA/</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>摄影师展示页面</title>
+        <author>
+            <name>Chinacitywalker</name>
+        </author>
+        <link href="https://wonfull.github.io/filmmaker/she-ying-shi-zhan-shi-ye-mian.html"/>
+        <id>https://wonfull.github.io/filmmaker/she-ying-shi-zhan-shi-ye-mian.html</id>
+        <media:content url="https://wonfull.github.io/filmmaker/media/posts/1/Da-Tong-Xin-Feng-Mian.png" medium="image" />
+
+        <updated>2023-10-30T15:31:49+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wonfull.github.io/filmmaker/media/posts/1/Da-Tong-Xin-Feng-Mian.png" alt="" />
+                    非常不错的说明哦
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wonfull.github.io/filmmaker/media/posts/1/Da-Tong-Xin-Feng-Mian.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://wonfull.github.io/filmmaker/media/posts/1/Da-Tong-Xin-Feng-Mian.jpg" height="1080" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-xs.jpg 300w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-sm.jpg 480w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-md.jpg 768w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-lg.jpg 1024w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-xl.jpg 1360w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Da-Tong-Xin-Feng-Mian-2xl.jpg 1600w">
+      
+    </figure>
+
+    <h2 id="fei-chang-bu-cuo-de-shuo-ming-e">
+      非常不错的说明哦
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://wonfull.github.io/filmmaker/media/posts/1/Liang-Si-Cheng-Lin-Hui-Yin-2.jpeg" height="1814" width="3111" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-xs.jpeg 300w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-sm.jpeg 480w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-md.jpeg 768w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-lg.jpeg 1024w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-xl.jpeg 1360w ,https://wonfull.github.io/filmmaker/media/posts/1/responsive/Liang-Si-Cheng-Lin-Hui-Yin-2-2xl.jpeg 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

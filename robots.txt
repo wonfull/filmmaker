@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wonfull.github.io/filmmaker/sitemap.xml
